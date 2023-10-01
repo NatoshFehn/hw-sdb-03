@@ -84,10 +84,10 @@ output {
 ```  
  
 Добавила пользователя logstash_internal, настроила роли и привелегии. Добавила Data  View:  
-![Снимок4](https://github.com/NatoshFehn/hw-sdb-02/blob/main/Снимок4.png) 
+![Снимок4](https://github.com/NatoshFehn/hw-sdb-03/blob/main/Снимок4.png) 
  
 Логи NGINX в интерфейсе Kibana
-![Снимок5](https://github.com/NatoshFehn/hw-sdb-02/blob/main/Снимок5.png) 
+![Снимок5](https://github.com/NatoshFehn/hw-sdb-03/blob/main/Снимок5.png) 
 
 ---
 
