@@ -84,10 +84,10 @@ output {
 ```  
  
 Добавила пользователя logstash_internal, настроила роли и привелегии. Добавила Data  View:  
-![Снимок4](https://github.com/NatoshFehn/hw-sdb-03/blob/main/Снимок4.png) 
+![Снимок4](https://github.com/NatoshFehn/hw-sdb-03/blob/main/Снимок5.png) 
  
 Логи NGINX в интерфейсе Kibana
-![Снимок5](https://github.com/NatoshFehn/hw-sdb-03/blob/main/Снимок5.png) 
+![Снимок5](https://github.com/NatoshFehn/hw-sdb-03/blob/main/Снимок4.png) 
 
 ---
 
@@ -122,6 +122,6 @@ output.logstash:
         error_log /var/log/nginx/error.log;
 ```
 Логи NGINX в интерфейсе Kibana с тегом nginx-from-filebeat
-![Снимок6](https://github.com/NatoshFehn/hw-sdb-02/blob/main/Снимок6.png) 
+![Снимок6](https://github.com/NatoshFehn/hw-sdb-03/blob/main/Снимок6.png) 
 
 ---
